@@ -14,22 +14,19 @@ a {
     max-width: 824px;
 }
 
-@media (max-width: 600px) {
-    .main-body {
-        margin: 0;
-    }
-}
-
 .nav {
     text-align: center;
 }
 
 .nav a {
-    padding: 0 12px;
+    margin: 0 12px;
+    font-size: 14px;
+    padding-bottom: 2px;
 }
 
 .active {
     color: #1c1c1c;
+    border-bottom: solid 2px;
 }
 
 .title {
@@ -39,4 +36,13 @@ a {
     font-weight: 400;
     line-height: 72px;
     text-align: center;
+}
+
+@media (max-width: 600px) {
+    .main-body {
+        margin: 0;
+    }
+    .title {
+        font-size: 48px;
+    }
 }
