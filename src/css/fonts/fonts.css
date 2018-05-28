@@ -1,0 +1,20 @@
+/** Garamond **/
+
+@font-face {
+    font-family: "garamond-premier-pro-display";
+    src: url(garamond.otf);
+}
+
+/** Proxima Nova **/
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('Proxima.eot');
+    src: url('Proxima.eot?#iefix') format('embedded-opentype'),
+         url('Proxima.woff') format('woff'),
+         url('Proxima.ttf') format('truetype'),
+         url('Proxima.svg#proxima_nova_altregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: "Proxima Nova";
+}
+
+a {
+    color: rgb(28,28,28);
+    text-decoration: none;
+}
+
+.main-body {
+    margin: 100px auto;
+    padding: 0 12px;
+    max-width: 824px;
+}
+
+@media (max-width: 600px) {
+    .main-body {
+        margin: 0;
+    }
+}
+
+.nav {
+    text-align: center;
+}
+
+.nav a {
+    padding: 0 12px;
+}
+
+.active {
+    color: #1c1c1c;
+}
+
+.title {
+    color: #1c1c1c;
+    font-family: "garamond-premier-pro-display";
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 72px;
+    text-align: center;
+}
