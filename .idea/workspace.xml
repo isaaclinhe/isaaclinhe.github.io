@@ -1,7 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08e5bd50-1478-4289-96eb-b1c73b0c1345" name="Default" comment="" />
+    <list default="true" id="08e5bd50-1478-4289-96eb-b1c73b0c1345" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/handlebars.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5471.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5525.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5567.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5583.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5590.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5638.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5657.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5670.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5680.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5691.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5697.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familybw/AbigailJoycePhotography-5712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5463.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5471.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5501.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5507.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5525.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5556.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5567.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5583.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5590.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5595.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5620.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5638.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5657.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5670.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5680.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5691.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5697.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5707.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/familycolor/AbigailJoycePhotography-5712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/B&amp;WDSC_5445.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5258.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5298.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5353.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5385.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/newborn/DSC_5445.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/photos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/base.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/photos.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Proxima.113323db.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Proxima.27c851a3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Proxima.4aecc64c.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Proxima.5dbcfd62.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/base.05837793.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/base.a6f3ea17.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/bg.96833317.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css.c25252b7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts.42b39ab0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/garamond.9f3e241a.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js.f3727fef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js.f3727fef.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/photos.2c848c4d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/photos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/photos.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/photos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/WeChat Image_20180528130742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/photos.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,33 +138,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/index.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="photos.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/photos.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="528">
+              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/css/base.css">
+      <file leaf-file-name="createImageInfo.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/createImageInfo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="400">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -47,26 +160,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photos.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/photos.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="320">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -85,6 +180,11 @@
     <findStrings>
       <find>console</find>
       <find>require</find>
+      <find>images/image1.jpg</find>
+      <find>html</find>
+      <find>5171</find>
+      <find>WDSC_5171</find>
+      <find>src</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,14 +196,23 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/.postcssrc" />
         <option value="$PROJECT_DIR$/src/css/fonts/fonts.css" />
-        <option value="$PROJECT_DIR$/src/css/photos.css" />
-        <option value="$PROJECT_DIR$/src/css/index.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/photos.html" />
-        <option value="$PROJECT_DIR$/src/js/index.js" />
         <option value="$PROJECT_DIR$/.gitingnore" />
-        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/firebase.json" />
+        <option value="$PROJECT_DIR$/src/css/index.css" />
+        <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/src/js/modal.js" />
+        <option value="$PROJECT_DIR$/src/js/photos.js" />
         <option value="$PROJECT_DIR$/src/css/base.css" />
+        <option value="$PROJECT_DIR$/src/css/photos.css" />
+        <option value="$PROJECT_DIR$/handlebars.config.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.hbs" />
+        <option value="$PROJECT_DIR$/src/photos.html" />
+        <option value="$PROJECT_DIR$/src/layouts/base.hbs" />
+        <option value="$PROJECT_DIR$/src/data/files.json" />
+        <option value="$PROJECT_DIR$/src/photos.hbs" />
+        <option value="$PROJECT_DIR$/scripts/createImageInfo.js" />
       </list>
     </option>
   </component>
@@ -143,6 +252,16 @@
               <item name="isaache" type="b2602c69:ProjectViewProjectNode" />
               <item name="isaache" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="isaache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isaache" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="isaache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="isaache" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -157,13 +276,19 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Puxuan\Documents\workspace\isaache" />
+      <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\images\photos" />
       <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\images" />
       <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\css\fonts" />
       <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\css" />
-      <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\images\photos" />
+      <recent name="C:\Users\Puxuan\Documents\workspace\isaache\src\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,13 +303,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.createImageInfo.js">
+    <configuration name="createImageInfo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="createImageInfo.js" working-dir="$PROJECT_DIR$/scripts" />
     <configuration name="start" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="start" />
       <node-interpreter value="project" />
       <envs />
     </configuration>
+    <list>
+      <item itemvalue="npm.start" />
+      <item itemvalue="Node.js.createImageInfo.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.createImageInfo.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -196,31 +331,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527522400659</updated>
-      <workItem from="1527522402070" duration="13526000" />
+      <workItem from="1527522402070" duration="15934000" />
+      <workItem from="1527558598312" duration="2558000" />
+      <workItem from="1527644205408" duration="8710000" />
+      <workItem from="1527690455249" duration="599000" />
+      <workItem from="1527821166616" duration="6002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13526000" />
+    <option name="totallyTimeSpent" value="33803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32912722" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="npm" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -233,18 +372,134 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/css.f4967391.js">
+    <entry file="file://$PROJECT_DIR$/src/photos.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1200">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/photos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/photos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/photos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/photos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/photos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/photos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css.f4967391.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.postcssrc">
       <provider selected="true" editor-type-id="text-editor">
@@ -253,14 +508,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/fonts/Mark Simonson - Proxima Nova Alt Regular-demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/WeChat Image_20180528130742.jpg">
+    <entry file="file://$PROJECT_DIR$/src/css/fonts/Mark Simonson - Proxima Nova Alt Regular-demo.html" />
+    <entry file="file://$PROJECT_DIR$/src/images/image2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/images/bg.jpg">
@@ -276,20 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/photos.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/js.5db8225b.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99633">
@@ -297,48 +532,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/photos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="608">
           <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/docs/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.firebaserc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/photos.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/photos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="1136">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/base.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlebars.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/files.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/photos.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/createImageInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>

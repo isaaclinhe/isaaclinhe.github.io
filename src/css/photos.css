@@ -1,4 +1,43 @@
 .photos {
-    margin: 52px;
-    text-align: center;
+    margin: 52px 52px 0 52px;
+}
+
+.photos img {
+    width: 100%;
+    height: auto;
+}
+
+.image-wrapper {
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.download-link {
+    display: none;
+    position: absolute;
+    bottom: 12px;
+    left: 12px;
+    border: solid 1px;
+    padding: 2px 12px 0 12px;
+    color: #777;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.image-wrapper:hover .download-link {
+    display: inline;
+}
+
+.download-link svg {
+    width: 16px;
+}
+
+@media (max-width: 600px) {
+    .photos {
+        margin: 25px 0 0 0;
+    }
+
+    .download-link {
+        display: none !important;
+    }
 }

@@ -1,0 +1,19 @@
+---
+script:
+    - ./js/index.js
+stylesheet:
+    - ./css/index.css
+index:
+    - true
+---
+
+{{#extend "base"}}
+    {{#content "main"}}
+        <div class="baby-image"></div>
+        <div id="age-intro" style="display: none" class="intro">
+            Hi, My name is Isaac Lin He and I am now
+            <span id="age"></span>
+            old.
+        </div>
+    {{/content}}
+{{/extend}}

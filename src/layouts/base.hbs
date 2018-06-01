@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Isaac He</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, shrink-to-fit=no">
+    <link rel="stylesheet" href="./css/fonts/fonts.css">
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="{{stylesheet}}">
+</head>
+<body>
+<div class="main-body">
+    <h1 class="title">Baby Isaac</h1>
+    <div class="nav">
+        {{#if index}}
+            <a class="active" href="/">Home</a>
+            <a href="photos.hbs">Photos</a>
+        {{else}}
+            <a href="/">Home</a>
+            <a class="active" href="photos.hbs">Photos</a>
+        {{/if}}
+    </div>
+    {{#block "main"}}
+    {{/block}}
+</div>
+<script defer src="{{script}}"></script>
+</body>
+</html>
