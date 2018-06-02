@@ -63,3 +63,8 @@ typings/
 .cache
 dist
 .idea
+src/data/file.json
+src/images/base64/*
+src/images/photos/*
+src/images/thumbnails/*
+public

@@ -11,10 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^8.5.1",
+    "intersection-observer": "^0.5.0",
+    "lodash": "^4.17.10",
     "moment": "^2.22.1",
     "moment-duration-format": "^2.2.2",
     "parcel-bundler": "^1.8.1",
     "parcel-plugin-handlebars": "^0.4.4",
-    "postcss-modules": "^1.1.0"
+    "postcss-modules": "^1.1.0",
+    "sharp": "^0.20.3"
   }
 }

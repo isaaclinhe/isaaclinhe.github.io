@@ -12,16 +12,13 @@ photo:
         <div class="photos">
             {{#each files}}
                 <div class="image-wrapper">
-                    <a class="image-link" href="{{{this}}}">
-                        <img src="{{{this}}}">
-                        <a class="download-link" href="{{{this}}}" download>
-                            <svg version="1.1" viewBox="0 0 32 32" width="32" height="32" aria-hidden="false">
-                                <path d="M25.8 15.5l-7.8 7.2v-20.7h-4v20.7l-7.8-7.2-2.7 3 12.5 11.4 12.5-11.4z"></path>
-                            </svg>
+                    <a class="image-link" href="{{{thumbnail}}}">
+                        <img class="image-img" data-src={{{thumbnail}}} src="data:image/jpg;base64,{{{base64}}}">
+                        <a class="download-link" href="{{{photo}}}" download>
+                            <img src="./images/icon.svg">
                         </a>
                     </a>
                 </div>
-                <link href="{{{this}}}" rel="stylesheet" />
             {{/each}}
         </div>
         <div style="display: none" id="modal" class="modal">

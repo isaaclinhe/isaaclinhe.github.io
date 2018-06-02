@@ -18,7 +18,7 @@
     bottom: 12px;
     left: 12px;
     border: solid 1px;
-    padding: 2px 12px 0 12px;
+    padding: 8px 8px 4px 8px;
     color: #777;
     border-radius: 4px;
     background-color: #fff;
@@ -26,10 +26,6 @@
 
 .image-wrapper:hover .download-link {
     display: inline;
-}
-
-.download-link svg {
-    width: 16px;
 }
 
 @media (max-width: 600px) {
